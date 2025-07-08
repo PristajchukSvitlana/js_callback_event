@@ -168,3 +168,5 @@ buttonEl.addEventListener('click', function (e) {
         contentEl.setAttribute('class', 'content hide')
     } else {
     }});
+
+    console.dir(contentEl);
